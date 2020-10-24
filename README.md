@@ -7,7 +7,7 @@ Your project will consist of a script providing a CLI with multiple subcommands 
 *   `config`: configure the remote host
 *   `build`: build Docker images for the services
 *   `deploy`: deploy the services
-*   `healthcheck`: ensure the services are running properly
+*   ~~`healthcheck`: ensure the services are running properly~~
 
 The script may be able to import or call other Python scripts you wrote, to implement a form of modularity in your project. The script shall be executed on your machine, and will target a remote server through its IP address (for example, a Debian 10 "Buster" VM running on your workstation).
 
