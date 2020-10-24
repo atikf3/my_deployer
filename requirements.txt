@@ -1,0 +1,5 @@
+
+paramiko>=2.7.2
+logzero>=1.5.0
+# dcopt
+# click

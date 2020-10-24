@@ -1,0 +1,1 @@
+docker run -dp 8000:8000 --name mocker my_deployer/mocker -serverPort 1080 -logLevel WARN
